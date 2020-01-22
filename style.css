@@ -1,23 +1,36 @@
+
 body{
+    padding: 0;
     font-family: 'Open Sans', sans-serif; 
     background-color:#f9fafc;
 
 }
 
+nav{
+    padding: 0;
+}
 ul {
+    padding: 10px;
     text-decoration: none;
     list-style: none;
     color: black;
 }
 
 a{
+    display: block:
     text-decoration: none;
+    color: #69696a;
+    border-radius: 10px;
+}
+
+p{
+    margin-left: 10px;
     color: #69696a;
 }
 
 section{
     border-left: 2px solid black;
-    padding-left: 10px;
+    margin-left: 10px;
 }
 
 
@@ -28,8 +41,18 @@ section{
     text-align: center;
 }
 .button {
+    display: block;
     width: 100%;
     background-color: #000;
-    color: #FFF;   
+    color: #FFF;
+    text-decoration: none;   
 }
 
+h2{
+    margin:10px;
+}
+
+h4{
+    margin-bottom: 10px;
+    padding: 0;
+}
