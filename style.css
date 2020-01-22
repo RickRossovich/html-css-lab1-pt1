@@ -1,58 +1,59 @@
-
-body{
-    padding: 0;
-    font-family: 'Open Sans', sans-serif; 
-    background-color:#f9fafc;
-
+body {
+  padding: 0;
+  font-family: "Open Sans", sans-serif;
+  background-color: #f9fafc;
 }
 
-nav{
-    padding: 0;
+nav {
+  padding: 0;
 }
 ul {
-    padding: 10px;
-    text-decoration: none;
-    list-style: none;
-    color: black;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+  color: black;
 }
 
-a{
-    display: block:
-    text-decoration: none;
-    color: #69696a;
-    border-radius: 10px;
+.grey {
+  text-decoration: none;
+}
+a {
+  display: block;
+  text-decoration: none;
+  color: #69696a;
+  border-radius: 10px;
 }
 
-p{
-    margin-left: 10px;
-    color: #69696a;
+p {
+  margin-left: 10px;
+  color: #69696a;
 }
 
-section{
-    border-left: 2px solid black;
-    margin-left: 10px;
+section {
+  border-left: 2px solid black;
+  margin-left: 10px;
 }
 
-
-.bg{
-    width: 100%;
-    text-decoration: none;
-    list-style: none;
-    text-align: center;
+.bg {
+  width: 100%;
+  text-decoration: none;
+  list-style: none;
+  text-align: center;
 }
 .button {
-    display: block;
-    width: 100%;
-    background-color: #000;
-    color: #FFF;
-    text-decoration: none;   
+  display: block;
+  width: 100%;
+  background-color: #000;
+  color: #fff;
+  text-decoration: none;
 }
 
-h2{
-    margin:10px;
+h2 {
+  margin: 0;
+  padding: 0;
 }
 
-h4{
-    margin-bottom: 10px;
-    padding: 0;
+h4 {
+  padding: 0;
+  margin: 0;
 }
