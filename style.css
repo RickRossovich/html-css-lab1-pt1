@@ -4,10 +4,8 @@ body {
   background-color: #f9fafc;
 }
 
-nav {
-  padding: 0;
-}
 ul {
+  line-height: 30px;
   padding: 0;
   text-decoration: none;
   list-style: none;
@@ -32,6 +30,8 @@ p {
 section {
   border-left: 2px solid black;
   margin-left: 10px;
+  margin-bottom: 10px;
+  margin-top: 10px;
 }
 
 .bg {
@@ -48,8 +48,8 @@ section {
   text-decoration: none;
 }
 
-h2 {
-  margin: 0;
+h1 {
+  margin-top: 20px;
   padding: 0;
 }
 
